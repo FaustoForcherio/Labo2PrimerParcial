@@ -1,0 +1,10 @@
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\PrimerParcial\bin\Debug\PrimerParcial.exe
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\PrimerParcial\bin\Debug\PrimerParcial.pdb
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\PrimerParcial\bin\Debug\Biblioteca.dll
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\PrimerParcial\bin\Debug\Biblioteca.pdb
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\PrimerParcial\obj\Debug\PrimerParcial.csproj.AssemblyReference.cache
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\PrimerParcial\obj\Debug\PrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\PrimerParcial\obj\Debug\PrimerPa.0611E971.Up2Date
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\PrimerParcial\obj\Debug\PrimerParcial.exe
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\PrimerParcial\obj\Debug\PrimerParcial.pdb

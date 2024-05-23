@@ -1,0 +1,6 @@
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\faust\source\repos\Primer Parcial Laboratorio\Biblioteca\obj\Debug\Biblioteca.pdb
